@@ -14,9 +14,9 @@ if city:
         st.write(data['current'])
         
     else:
-        st.write("city not found")mport streamlit as st
-import r
-de_menu = """
+        st.write("city not found")
+        
+hide_menu = """
 <style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
