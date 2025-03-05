@@ -1,4 +1,5 @@
 import requests
+import streamlit as st
 
 api_url = "http://api.weatherapi.com/v1/current.json?"
 api_key = "cc1c8c16dc414858a9e90359250303"
